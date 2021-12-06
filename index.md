@@ -7,11 +7,9 @@ feature_image: "https://picsum.photos/1300/400?image=989"
 
 ---
 
-## Features
+### topic
+
+texto texto 
 
 - item 1
 - item 2
-
-### Quick setup
-
-To give you a running start I've put together some starter kits that you can download, fork or even deploy immediately:
