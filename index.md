@@ -1,13 +1,10 @@
 ---
-title: 
+title: Lagamangue
 feature_text: |
 
 feature_image: "assets/teste1.png"
 ---  
-
-        
   
-## Lagamangue  
 
 ### O Projeto  
 
