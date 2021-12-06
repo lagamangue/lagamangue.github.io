@@ -35,14 +35,14 @@ plugins:
 - jemoji
 
 # 3. Gem settings
-paginate: 2 # jekyll-paginate > items per page
+paginate: 10 # jekyll-paginate > items per page
 paginate_path: blog/page:num # jekyll-paginate > blog page
 jekyll-mentions: https://twitter.com # jekyll-mentions > service used when @replying
 twitter:
   username: MarinaCRillo # jekyll-seo-tag > Owners twitter username
-author: Lagamangue # jekyll-seo-tag > default author
+author: Lagamangueeee # jekyll-seo-tag > default author
 social: # jekyll-seo-tag > social overrides
-  name: Lagamangue # jekyll-seo-tag > real name
+  name: Lagamanguee # jekyll-seo-tag > real name
   links:  # jekyll-seo-tag > social aliases (sameAs)
    # - https://twitter.com/DavidDarnes
    # - https://www.facebook.com/daviddarnes
@@ -93,7 +93,7 @@ defaults:
 # 7. Site settings
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
-title: "Marina # Site name or title, also used in jekyll-seo-tag
+title: "Marina" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/logo_marina.png" # Site logo, also used in jekyll-seo-tag
 description: "description" # Site description and default description, also used in jekyll-seo-tag
 # url: "https://alembic.darn.es" # Site url, also used in jekyll-seo-tag
