@@ -40,7 +40,7 @@ paginate_path: blog/page:num # jekyll-paginate > blog page
 jekyll-mentions: https://twitter.com # jekyll-mentions > service used when @replying
 twitter:
   username: MarinaCRillo # jekyll-seo-tag > Owners twitter username
-author: Langamangue # jekyll-seo-tag > default author
+author: Lagamangue # jekyll-seo-tag > default author
 social: # jekyll-seo-tag > social overrides
   name: Lagamangue # jekyll-seo-tag > real name
   links:  # jekyll-seo-tag > social aliases (sameAs)
