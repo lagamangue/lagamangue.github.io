@@ -2,7 +2,7 @@
 title: Lagamangue
 feature_text: |
 
-feature_image: "assets/capa.jpg"
+feature_image: "assets/teste2.jpg"
 ---  
   
 
