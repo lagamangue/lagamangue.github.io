@@ -3,7 +3,7 @@ title: Lagamangue
 feature_text: |
 feature_image: "assets/teste2.png"
 excerpt: ""
-aside: false
+aside: true
 ---
 
 ## Heading 2
