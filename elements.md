@@ -1,5 +1,5 @@
 ---
-title: <small> (under construction) </small>
+title: <small> (website under construction) </small>
 feature_text: |
 feature_image: "assets/teste2.jpg"
 ---
