@@ -1,5 +1,5 @@
 ---
-title: <small>A small element 234</small>
+title: <small> </small>
 feature_text: |
 feature_image: "https://github.com/lagamangue/lagamangue.github.io/blob/main/assets/teste2.png"
 ---
