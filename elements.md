@@ -12,12 +12,8 @@ aside: true
 The Atlantic forest is a biome that stretches from Argentina all the way until the north east of Brazil. After the Amazon, it is the second largest forest in South America. Progressive sustained deforestation over the last 400 years has left the forest fragmented and only 7% of its original size. Fragmentation... 
 
 
-#### Lagamar region
-
-
-
-### Reserva Lagamangue
-Reserva Magual is a which forms a corridor between the Lagamar state Park and the Mar Piqueno (an inland sea) which connects to the Atlantic Ocean. The reserve encompasses a transitional zone of mangrove forests, restinga and Montane coastal forest. 
+### Lagamangue
+The Lagamangue area forms a corridor between the Lagamar state Park and the Mar Piqueno (an inland sea) which connects to the Atlantic Ocean. The reserve encompasses a transitional zone of mangrove forests, restinga and Montane coastal forest. 
 Mangrove forests consists of salt tolerant tree species that growth in the intertidal zones. Mangrove forests are important foraging habitat for many species of birds, nursery for many fish species
 Restinga
 Montane coastal forest
