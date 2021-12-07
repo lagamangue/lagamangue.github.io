@@ -1,7 +1,7 @@
 ---
-title: <small>A small element</small>
+title: <small>A small element 234</small>
 feature_text: |
-feature_image: "https://pbs.twimg.com/profile_banners/3039043528/1607631634/1500x500"
+feature_image: "https://github.com/lagamangue/lagamangue.github.io/blob/main/assets/teste2.png"
 ---
   
 
