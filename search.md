@@ -1,6 +1,9 @@
 ---
-title: Search
-excerpt: "Search for a page or post you're looking for"
+title: Contact
 ---
 
-{% include site-search.html %}
+David M. Ekkers  
+david.m.ekkers@gmail.com  
+
+Marina C. Rillo  
+rillomarina@gmail.com  
