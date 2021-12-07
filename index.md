@@ -5,7 +5,7 @@ feature_text: |
 feature_image: "assets/teste2.png"
 ---  
   
-#### Connecting the Atlantic Rainforest to the Atlantic Ocean.
+###### Connecting the Atlantic Rainforest to the Atlantic Ocean.
 
 David M. Ekkers  <david.m.ekkers@gmail.com>  
 Marina C. Rillo  <rillomarina@gmail.com>
