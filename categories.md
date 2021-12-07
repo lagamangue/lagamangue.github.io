@@ -1,6 +1,6 @@
 ---
 title: Lagamangue
-layout: categories
+layout: categoriesx
 excerpt: "Category index"
 aside: true
 ---
