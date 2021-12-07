@@ -1,7 +1,7 @@
 ---
 title: <small> (website under construction) </small>
 feature_text: |
-feature_image: "assets/teste2.jpg"
+feature_image: "https://www.dropbox.com/s/o86dicfch73y4a6/teste2.jpg"
 ---
   
 
