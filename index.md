@@ -2,7 +2,7 @@
 title: Lagamangue
 feature_text: |
 
-feature_image: "assets/teste2.jpg"
+feature_image: "assets/teste2.png"
 ---  
   
 Connecting the Atlantic rainforest to the Atlantic sea
