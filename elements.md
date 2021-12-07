@@ -1,7 +1,7 @@
 ---
 title: <small> (under construction) </small>
 feature_text: |
-feature_image: "https://github.com/lagamangue/lagamangue.github.io/blob/main/assets/teste2.png"
+feature_image: "assets/teste2.jpg"
 ---
   
 
