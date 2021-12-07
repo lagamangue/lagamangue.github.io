@@ -12,8 +12,4 @@ feature_image: "assets/capa.jpg"
 - item 2
 
 
-{% include figure.html image="https://picsum.photos/600/800?image=894" caption="Image with caption" width="300" height="800" %}
-
-{% include figure.html image="https://picsum.photos/600/800?image=894" caption="Right aligned image" position="right" width="300" height="800" %}
-
-{% include figure.html image="https://picsum.photos/1600/800?image=894" alt="Image with just alt text" %}
+{% include figure.html image="assets/capa.jpg" caption="Image with caption" width="300" height="800" %}
