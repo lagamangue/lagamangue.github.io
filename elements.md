@@ -1,7 +1,7 @@
 ---
 title: .
 feature_text: |
-feature_image: "assets/teste2.png"
+feature_image: "https://pbs.twimg.com/profile_banners/3039043528/1607631634/1500x500"
 ---
   
 
