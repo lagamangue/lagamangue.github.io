@@ -1,9 +1,10 @@
 ---
-title: 
+title: Lagamangue
 feature_text: |
+
 feature_image: "assets/teste2.png"
-aside: true
----
+---  
+  
 
 
 ### The Atlantic rainforest
