@@ -1,7 +1,7 @@
 ---
 title: Lagamangue2
 feature_text: |
-excerpt: ""
+feature_image: "https://picsum.photos/2560/600?image=873"
 ---
   
 
