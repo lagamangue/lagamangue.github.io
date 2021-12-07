@@ -12,4 +12,4 @@ feature_image: "assets/capa.jpg"
 - item 2
 
 
-{% include figure.html image="assets/capa.jpg" caption="Image with caption" width="4016" height="1394" %}
+{% include figure.html image="assets/capa.jpg" caption="Reserva Lagamangue com Parque Lagamar no fundo" width="4016" height="1394" %}
