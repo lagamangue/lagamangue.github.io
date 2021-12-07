@@ -1,8 +1,6 @@
 ---
-title: Lagamangue
+title: Lagamangue2
 feature_text: |
-
-feature_image: "assets/teste2.png"
 excerpt: ""
 ---
   
